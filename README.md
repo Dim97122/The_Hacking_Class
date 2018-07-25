@@ -1,17 +1,24 @@
-# > DBB of The-Hacking-Class
+# > DBB of The_Hacking_Class
 
-## Contributors
+## Contributeurs
 
-- William RIBEIRO | @wilrib  non-binaire
-- Gino HU | @Gino
+- Dimitri KIAVUE | @Dimitri - BoyzIICode
+- Pierre Tâm-Anh LE KHAC | @Pierre Tâm-Anh - BoyzIICode
 
-## How it works
+## Lancer le projet 
 
-1) Cloner le repo ```git clone https://github.com/wilrib/The-Hacking-Class.git```
+1) Cloner le repo ```git clone https://github.com/Dim97122/The_Hacking_Class.git```
 2) Se mettre dans le dossier cloné puis ```bundle install``` 
 3) Créer la base de donnée avec la commande ```rails db:migrate```
 4) Finir par ```rails db:seed```
 
-*Voilà, vous avez une belle base de donnée avec des données random*
+## Doc & Gems
 
-![](https://github.com/wilrib/The-Hacking-Class/blob/master/img/25484553.png)
+ActiveRecord pour gérer la database sqlite3 database, et la gem "Faker" pour donner un sens à notre database sur le fichier seed.
+
+## Pour avoir accès à la base de données 
+
+Tu peux utiliser DB Browser for sqlite3
+
+
+![](https://github.com/wilrib/The-Hacking-News/blob/master/img/25484553.png)
