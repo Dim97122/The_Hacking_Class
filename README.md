@@ -1,4 +1,4 @@
-# > DBB of My Beauftiful Blog
+# > DBB of The-Hacking-Class
 
 ## Contributors
 
